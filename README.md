@@ -1,5 +1,4 @@
 # GooRecipe O Mestre Cuca na sua mão
-A project by Alicia Faria - Alura + Google
 
 
 Olá pessoal! Para o meu projeto final, eu criei um chatbot que simula meu pai, um chef de cozinha renomado, para auxiliar quem busca praticidade e criatividade na cozinha.
