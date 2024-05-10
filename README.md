@@ -12,7 +12,7 @@ Com o GooRecipe, você tem acesso a um universo culinário ✨ na palma da sua m
 * **Me inspire:** A IA identifica os ingredientes nas fotos e te dá opções de acordo com o que você tem disponível!
 * **Quero fazer esse prato:** Tire uma foto de um prato e descubra o nome e o passo a passo para fazê-lo através da IA!
 
-Ao enviar a imagem em uma dessas condições, o GooRecipe retornará com a receita que você quer fazer, indredientes e modo de preparo. E no outro caso, ele retornará com três receitas diferentes possíveis de serem feitas com o que você tem em casa!
+Ao enviar a imagem em uma dessas condições, o GooRecipe retornará com a receita que você quer fazer, ingredientes e modo de preparo. E no outro caso, ele retornará com três receitas diferentes possíveis de serem feitas com o que você tem em casa!
 
 ### **Ao juntar os ingredientes que você tem em casa, peça:**
 ## 😀 GooRecipe, me inspire!
