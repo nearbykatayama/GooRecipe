@@ -1,12 +1,25 @@
-# GooRecipe: O Mestre Cuca na sua mão
+# GooRecipe: Um Mestre Cuca na sua mão 👩‍🍳
 
 
-Olá pessoal! Para o meu projeto final, eu criei um chatbot que simula meu pai, um chef de cozinha renomado, para auxiliar quem busca praticidade e criatividade na cozinha.
+Olá pessoal! Para o meu projeto final, eu criei um chatbot que simula um chef de cozinha. 
 
-## Me inspire!
+Inicialmente eu pensei no meu pai, chef de cozinha, pois eu sempre pedi para ele sugestões de pratos para fazer, nome dos pratos, modo de preparo, e tudo mais. Eu literalmente usava ele de Google, só que da gastronomia (haha). 
+Pensando nisso eu criei o GooRecipe para auxiliar quem busca praticidade e criatividade na cozinha, assim como eu.
+
+Com o GooRecipe, você tem acesso a um universo culinário ✨ na palma da sua mão!
+
+### **No GooRecipe existem duas alternativas:**
+* **Me inspire:** A IA identifica os ingredientes nas fotos e te dá opções de acordo com o que você tem disponível!
+* **Quero fazer esse prato:** Tire uma foto de um prato e descubra o nome e o passo a passo para fazê-lo através da IA!
+
+Ao enviar a imagem em uma dessas condições, o GooRecipe retornará com a receita que você quer fazer, indredientes e modo de preparo. E no outro caso, ele retornará com três receitas diferentes possíveis de serem feitas com o que você tem em casa!
+
+### **Ao juntar os ingredientes que você tem em casa, peça:**
+## 😀 GooRecipe, me inspire!
 
 ![ingredientes1](https://github.com/nearbykatayama/my_first_project/assets/169454362/002c67bd-ae9c-42c0-9f67-d48170d8258f)
 
+### 🤖 GooRecipe: 
 
 Com os ingredientes da imagem, temos uma variedade de pratos possíveis devido à versatilidade dos mesmos. Aqui estão três sugestões com diferentes modos de preparo:
 
@@ -73,11 +86,13 @@ Com os ingredientes da imagem, temos uma variedade de pratos possíveis devido �
 Bom apetite! 
 
 
-## Quero fazer esse prato!
+
+### **Ao salvar uma imagem de um prato, diga:**
+## 😀 GooRecipe, quero fazer esse prato!
 
 ![prato1](https://github.com/nearbykatayama/my_first_project/assets/169454362/74d92c90-6f74-47fd-92ed-63dec4eb2482)
 
-
+### 🤖 GooRecipe: 
 ### Lasanha à Bolonhesa 
 
 Esta delícia italiana é um prato clássico que agrada a muitos paladares. Vamos aos ingredientes e ao modo de preparo:
@@ -132,45 +147,29 @@ Esta delícia italiana é um prato clássico que agrada a muitos paladares. Vamo
 **Bom apetite!** 
 
 
-# Por que você deve escolher o GooRecipe?
+# **GooRecipe: ️ Seu Chef de Bolso com Inteligência Artificial do Google!**
 
-## **Pelas funcionalidades:**
+Pense nesse projeto com um passo a frente, se tornando um aplicativo com funcionalidades incríveis!
 
-Tenha ideias: Envie fotos dos ingredientes que você tem em casa e receba 3 receitas deliciosas para preparar!
-Identifique receitas: Tire uma foto de um prato que você viu online e descubra o nome e o passo a passo para fazê-lo!
-Aprenda com o melhor: Dicas e truques do meu pai para você se tornar um chef de sucesso!
-Desenvolvido com:
-
-Inteligência Artificial do Google: A magia da IA torna o GooRecipe inteligente e capaz de entender suas necessidades culinárias.
-Minhas habilidades em programação: Aprendidas na Alura, me permitiram dar vida ao GooRecipe e torná-lo uma ferramenta prática para o dia a dia.
-
-Perfeito para: Pessoas que desejam cozinhar com mais praticidade, criatividade e sem complicação. Uma ferramenta essencial para quem busca aprender novas receitas, aprimorar suas habilidades culinárias e impressionar amigos e familiares.
-Vote em meu projeto:
-
-Acredito que o GooRecipe tem o potencial de transformar a forma como as pessoas cozinham. Ajude-me a levar essa ideia adiante votando no meu projeto na Imersão Alura + Google!
+Vai ser perfeito para pessoas que desejam cozinhar com mais praticidade ⏱️, criatividade e sem complicação. ‍‍‍
+Quem busca aprender novas receitas, **aprimorar suas habilidades culinárias** e impressionar amigos e familiares. ‍‍
 
 
-Isso é apenas um projeto simples, mas imagine o GooRecipe aprimorado, você terá:
+### Isso é só o começo!...
+
+Imagine o GooRecipe aprimorado:
+
+* **Aplicativo completo:** Tire fotos de ingredientes ou pratos e receba sugestões personalizadas de receitas deliciosas e fáceis de preparar! 
+* **Lista de compras automática:** Crie listas com base nas receitas escolhidas, para facilitar suas compras no supermercado.
+* **Mais praticidade:** Diga adeus ao desperdício de ingredientes ️e à busca incessante por receitas!
+* **Mais criatividade:** Explore novas culinárias, experimente combinações inusitadas e surpreenda a todos!
+
+![24588_01-06-2021](https://github.com/nearbykatayama/GooRecipe/assets/169454362/37fe8a8a-ef4e-4e7c-8d48-6224b9b55262)
 
 
-Um aplicativo completo: Tire fotos dos ingredientes que você tem em casa ou de um prato que você viu em um restaurante e receba sugestões personalizadas de receitas deliciosas e fáceis de preparar.
+### Vote em meu projeto! ️
+Acredito que o GooRecipe aprimorado pode transformar a forma como as pessoas cozinham. ‍❤️
 
-Reconhecimento inteligente: O GooRecipe usará inteligência artificial para identificar os ingredientes nas fotos e te dar opções de acordo com o que você tem disponível.
 
-Passo a passo detalhado: Receba instruções claras e precisas para cada receita, com fotos e vídeos ilustrativos para facilitar o seu aprendizado.
-
-Filtros personalizados: Pesquise receitas por ingredientes, tempo de preparo, culinária e muito mais, para encontrar o prato perfeito para você.
-
-Lista de compras: Crie listas de compras automaticamente com base nas receitas que você escolher, para facilitar suas compras no supermercado.
-
-Mais praticidade: Diga adeus ao desperdício de ingredientes e às horas gastas pesquisando receitas na internet. O GooRecipe te ajuda a encontrar o prato perfeito para qualquer ocasião, em poucos minutos.
-
-Mais criatividade: Explore novas culinárias, experimente combinações inusitadas e surpreenda seus amigos e familiares com suas habilidades culinárias.
-
-Vote em meu projeto!
-
-Acredito que o GooRecipe aprimorado tem o potencial de transformar a forma como as pessoas cozinham e se relacionam com a comida. Ajude-me a levar essa ideia adiante votando no meu projeto na Imersão Alura + Google!
-
-Juntos, podemos democratizar o acesso à alta gastronomia, tornar a cozinha um lugar de alegria e criatividade e promover uma vida mais saudável e saborosa!
-
-#imersaoIA #alura #google #goorecipe #chefdebolso #inteligenciaartificial #cozinhar #praticidade #criatividade #aprendaareceitas
+### Ajude-me a levar essa ideia adiante votando no meu projeto na Imersão Alura + Google!
+### Juntos, podemos democratizar o acesso à alta gastronomia ️de qualidade, tornar a cozinha um lugar criatividade, e promover uma vida mais saudável e saborosa! 😋
